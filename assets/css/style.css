@@ -49,7 +49,7 @@ header {
     margin-bottom: 90px;
     color: #fff;
 }
-
+/*------------------------------------------------------Nav Area*/
 .list-inline-item:not(:last-child){
     margin: 0;
 }
@@ -86,4 +86,12 @@ header {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 2px;
+}
+#nav {
+    margin: 0;
+}
+/*------------------------------------------------------Hover.CSS*/
+.hvr-sweep-to-bottom:before {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 120px;
 }
