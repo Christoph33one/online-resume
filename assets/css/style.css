@@ -38,7 +38,7 @@ h1,h2,h3,h4 {
 .row-table {
     display: table;
 }
-..section-column {
+.section-column {
     display: table-cell;
     padding: 0 30px 30px;
     float: none;
@@ -172,4 +172,13 @@ footer {
 }
 #footer-detials {
     padding: 20px;
+}
+/*------------------------------------------------------Three reason*/
+
+.three-reasons-icon {
+    font-size: 26px;
+    color:  #e67e22;
+}
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
