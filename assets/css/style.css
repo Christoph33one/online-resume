@@ -19,6 +19,9 @@
 .ui-menu-download {
     background-color: #525252;
 }
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
 
 /*------------------------------------------------------Special Margins/Headings/Text/General Tasks*/
 h1,h2,h3,h4 {
@@ -181,4 +184,11 @@ footer {
 }
 .three-reasons-heading {
     margin-bottom: 15px;
+}
+
+/*---------------------------------container-Lorem Ipsum*/
+
+.container-Lorem {
+    padding-top: 20px;
+    padding-left: 10px;
 }
