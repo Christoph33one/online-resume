@@ -280,3 +280,6 @@ footer {
     content: '';
     background-color: #fafafa;
 }
+.history-item {
+    margin-bottom: 30px;
+}
